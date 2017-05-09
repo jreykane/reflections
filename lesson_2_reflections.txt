@@ -1,0 +1,10 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+I'm not answering the question.
+
+How is the staging area different from the working directory and the respository?  What value do you think it offers?
+
+Able to add some but not all files at one time.
+
+
+
